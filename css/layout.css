@@ -260,6 +260,18 @@ $breakpoint-xlarge: 1220px; // For width more than 1220px
 	.ba-width-small-1-6 {
 		width: 16.66667%;
 	}
+	.ba-width-small-1-7 {
+		width: 14.2857%;
+	}
+	.ba-width-small-1-8 {
+		width: 12.5%;
+	}
+	.ba-width-small-1-9 {
+		width: 11.1111%;
+	}
+	.ba-width-small-1-10 {
+		width: 10%;
+	}
 }
 
 @media (min-width: 768px) {
@@ -285,6 +297,21 @@ $breakpoint-xlarge: 1220px; // For width more than 1220px
 
 	.ba-width-medium-1-6 {
 		width: 16.66667%;
+	}
+	.ba-width-medium-1-7 {
+		width: 14.2857%;
+	}
+	.ba-width-medium-1-8 {
+		width: 12.5%;
+	}
+	.ba-width-medium-1-9 {
+		width: 11.1111%;
+	}
+	.ba-width-medium-1-10 {
+		width: 10%;
+	}
+	.ba-width-medium-3-8 {
+		width: 37.5%;
 	}
 }
 
@@ -312,6 +339,18 @@ $breakpoint-xlarge: 1220px; // For width more than 1220px
 	.ba-width-large-1-6 {
 		width: 16.66667%;
 	}
+	.ba-width-large-1-7 {
+		width: 14.2857%;
+	}
+	.ba-width-large-1-8 {
+		width: 12.5%;
+	}
+	.ba-width-large-1-9 {
+		width: 11.1111%;
+	}
+	.ba-width-large-1-10 {
+		width: 10%;
+	}
 }
 
 @media (min-width: 1220px) {
@@ -337,5 +376,17 @@ $breakpoint-xlarge: 1220px; // For width more than 1220px
 
 	.ba-width-xlarge-1-6 {
 		width: 16.66667%;
+	}
+	.x {
+		width: 14.2857%;
+	}
+	.ba-width-xlarge-1-8 {
+		width: 12.5%;
+	}
+	.ba-width-xlarge-1-9 {
+		width: 11.1111%;
+	}
+	.ba-width-xlarge-1-10 {
+		width: 10%;
 	}
 }
